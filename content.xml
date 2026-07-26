@@ -57,5 +57,5 @@
   <text language="380"
     description="Додає повзунок у меню Параметри для налаштування ширини інформаційних панелей екрана карти (впливає також на меню Інформація про гравця, Дипломатія, Виробництво та Журнал транзакцій, які використовують те саме значення)."></text>
   <dependency version="800"></dependency>
-  <dependency id="kuerteeUIExtensionsAndHUD" optional="true" name="kuertee UI Extensions and HUD" version="804"></dependency>
+  <dependency id="kuerteeUIExtensionsAndHUD" optional="false" name="kuertee UI Extensions and HUD" version="804"></dependency>
 </content>
