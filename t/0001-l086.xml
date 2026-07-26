@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Chinese Simplified -->
+<diff>
+  <add sel="/language">
+    <page id="1972092436" title="Info Panel Width" descr="" voice="no">
+      <!-- mod identity -->
+      <t id="1">信息面板宽度</t>
+
+      <!-- Section: Options row (100-109) -->
+      <t id="100">信息面板宽度</t>
+      <t id="101">以屏幕宽度的百分比设置地图界面信息面板的宽度。由于共享该数值，玩家信息、外交、制造和交易记录菜单及其玩家状态文本（姓名、信用点、星区、游戏时间）的大小也会同步调整。</t>
+    </page>
+  </add>
+</diff>

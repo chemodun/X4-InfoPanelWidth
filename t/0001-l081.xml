@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Japanese -->
+<diff>
+  <add sel="/language">
+    <page id="1972092436" title="Info Panel Width" descr="" voice="no">
+      <!-- mod identity -->
+      <t id="1">情報パネルの幅</t>
+
+      <!-- Section: Options row (100-109) -->
+      <t id="100">情報パネルの幅</t>
+      <t id="101">マップ画面の情報パネルの幅を、画面幅に対する割合で設定します。同じ値がプレイヤー情報、外交、製造、取引履歴の各メニューと、そのプレイヤーステータステキスト（名前、クレジット、セクター、プレイ時間）のサイズにも使用されます。すべてがこの値を共有しているためです。</t>
+    </page>
+  </add>
+</diff>

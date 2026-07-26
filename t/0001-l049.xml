@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- German -->
+<diff>
+  <add sel="/language">
+    <page id="1972092436" title="Info Panel Width" descr="" voice="no">
+      <!-- mod identity -->
+      <t id="1">Infopanel-Breite</t>
+
+      <!-- Section: Options row (100-109) -->
+      <t id="100">Infopanel-Breite</t>
+      <t id="101">Legt die Breite der Informationspanele der Kartenansicht als Prozentsatz der Bildschirmbreite fest. Derselbe Wert bestimmt auch die Größe der Menüs Spielerinfo, Diplomatie, Herstellung und Transaktionsprotokoll sowie deren Spielerstatustext (Name, Kredits, Sektor, Spielzeit), da sie alle denselben Wert verwenden.</t>
+    </page>
+  </add>
+</diff>

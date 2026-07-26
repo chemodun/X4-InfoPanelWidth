@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Polish -->
+<diff>
+  <add sel="/language">
+    <page id="1972092436" title="Info Panel Width" descr="" voice="no">
+      <!-- mod identity -->
+      <t id="1">Szerokość panelu informacyjnego</t>
+
+      <!-- Section: Options row (100-109) -->
+      <t id="100">Szerokość panelu informacyjnego</t>
+      <t id="101">Ustawia szerokość, jako procent szerokości ekranu, paneli informacyjnych ekranu mapy. Ta sama wartość określa również rozmiar menu Informacje o graczu, Dyplomacja, Wytwarzanie i Dziennik transakcji oraz ich tekstu stanu gracza (imię, kredyty, sektor, czas gry), ponieważ wszystkie ją współdzielą.</t>
+    </page>
+  </add>
+</diff>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Spanish -->
+<diff>
+  <add sel="/language">
+    <page id="1972092436" title="Info Panel Width" descr="" voice="no">
+      <!-- mod identity -->
+      <t id="1">Ancho del panel de información</t>
+
+      <!-- Section: Options row (100-109) -->
+      <t id="100">Ancho del panel de información</t>
+      <t id="101">Define el ancho, como porcentaje del ancho de la pantalla, de los paneles de información de la pantalla del mapa. El mismo valor también determina el tamaño de los menús Información del jugador, Diplomacia, Fabricación y Registro de transacciones, así como su texto de estado del jugador (nombre, créditos, sector, tiempo de juego), ya que todos lo comparten.</t>
+    </page>
+  </add>
+</diff>

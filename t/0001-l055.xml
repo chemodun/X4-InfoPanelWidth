@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Portuguese -->
+<diff>
+  <add sel="/language">
+    <page id="1972092436" title="Info Panel Width" descr="" voice="no">
+      <!-- mod identity -->
+      <t id="1">Largura do painel de informações</t>
+
+      <!-- Section: Options row (100-109) -->
+      <t id="100">Largura do painel de informações</t>
+      <t id="101">Define a largura, como porcentagem da largura da tela, dos painéis de informações da tela do mapa. O mesmo valor também determina o tamanho dos menus Informações do jogador, Diplomacia, Fabricação e Registro de transações, bem como o texto de status do jogador (nome, créditos, setor, tempo de jogo), já que todos compartilham o mesmo valor.</t>
+    </page>
+  </add>
+</diff>

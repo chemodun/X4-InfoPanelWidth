@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Turkish -->
+<diff>
+  <add sel="/language">
+    <page id="1972092436" title="Info Panel Width" descr="" voice="no">
+      <!-- mod identity -->
+      <t id="1">Bilgi Paneli Genişliği</t>
+
+      <!-- Section: Options row (100-109) -->
+      <t id="100">Bilgi Paneli Genişliği</t>
+      <t id="101">Harita ekranının Bilgi Panellerinin genişliğini, ekran genişliğinin yüzdesi olarak ayarlar. Aynı değer, hepsi bu değeri paylaştığı için Oyuncu Bilgisi, Diplomasi, Üretim ve İşlem Günlüğü menülerinin ve oyuncu durum metinlerinin (isim, kredi, sektör, oynama süresi) boyutunu da belirler.</t>
+    </page>
+  </add>
+</diff>

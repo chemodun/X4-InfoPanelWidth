@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Korean -->
+<diff>
+  <add sel="/language">
+    <page id="1972092436" title="Info Panel Width" descr="" voice="no">
+      <!-- mod identity -->
+      <t id="1">정보 패널 너비</t>
+
+      <!-- Section: Options row (100-109) -->
+      <t id="100">정보 패널 너비</t>
+      <t id="101">맵 화면의 정보 패널 너비를 화면 너비에 대한 백분율로 설정합니다. 동일한 값이 플레이어 정보, 외교, 제작, 거래 기록 메뉴와 플레이어 상태 텍스트(이름, 크레딧, 섹터, 플레이 시간) 크기에도 사용됩니다. 모두 이 값을 공유하기 때문입니다.</t>
+    </page>
+  </add>
+</diff>

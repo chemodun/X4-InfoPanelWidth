@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Czech -->
+<diff>
+  <add sel="/language">
+    <page id="1972092436" title="Info Panel Width" descr="" voice="no">
+      <!-- mod identity -->
+      <t id="1">Šířka informačního panelu</t>
+
+      <!-- Section: Options row (100-109) -->
+      <t id="100">Šířka informačního panelu</t>
+      <t id="101">Nastavuje šířku, jako procento šířky obrazovky, informačních panelů obrazovky mapy. Stejná hodnota také určuje velikost nabídek Informace o hráči, Diplomacie, Výroba a Deník transakcí a jejich textu stavu hráče (jméno, kredity, sektor, herní doba), protože ji všechny sdílejí.</t>
+    </page>
+  </add>
+</diff>
