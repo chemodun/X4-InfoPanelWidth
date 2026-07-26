@@ -8,6 +8,7 @@
   save="false"
   sync="false"
   enabled="true"
+  lastupdate="1785083326"
   description="Adds an Options menu slider to configure the width of the Map screen's Information Panels (also affects the Player Info, Diplomacy, Crafting and Transaction Log menus, which share the same value).">
   <text language="7"
     description="Adds an Options menu slider to configure the width of the Map screen's Information Panels (also affects the Player Info, Diplomacy, Crafting and Transaction Log menus, which share the same value)."></text>
