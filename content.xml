@@ -10,52 +10,52 @@
   enabled="true"
   description="Adds an Options menu slider to configure the width of the Map screen's Information Panels (also affects the Player Info, Diplomacy, Crafting and Transaction Log menus, which share the same value).">
   <text language="7"
-    description="Fügt einen Schieberegler im Optionsmenü hinzu, um die Breite des rechten Infopanels anzupassen."></text>
+    description="Adds an Options menu slider to configure the width of the Map screen's Information Panels (also affects the Player Info, Diplomacy, Crafting and Transaction Log menus, which share the same value)."></text>
   <!-- French -->
   <text language="33"
-    description="Ajoute un curseur dans le menu Options pour ajuster la largeur du panneau d'informations à droite."></text>
+    description="Ajoute un curseur dans le menu Options pour régler la largeur des panneaux d'informations de l'écran de la carte (affecte également les menus Infos joueur, Diplomatie, Fabrication et Journal des transactions, qui partagent la même valeur)."></text>
   <!-- Spanish -->
   <text language="34"
-    description="Añade un control deslizante en el menú de Opciones para ajustar el ancho del panel de información derecho."></text>
+    description="Añade un control deslizante en el menú de Opciones para ajustar el ancho de los paneles de información de la pantalla del mapa (también afecta a los menús de Información del jugador, Diplomacia, Fabricación y Registro de transacciones, que comparten el mismo valor)."></text>
   <!-- Italian -->
   <text language="39"
-    description="Aggiunge un cursore nel menu Opzioni per regolare la larghezza del pannello informazioni a destra."></text>
+    description="Aggiunge un cursore nel menu Opzioni per regolare la larghezza dei pannelli informativi della schermata Mappa (influisce anche sui menu Info giocatore, Diplomazia, Produzione e Registro delle transazioni, che condividono lo stesso valore)."></text>
   <!-- Czech -->
   <text language="42"
-    description="Přidává posuvník do nabídky Možnosti pro úpravu šířky pravého informačního panelu."></text>
+    description="Přidává posuvník do nabídky Možnosti pro úpravu šířky informačních panelů obrazovky mapy (ovlivňuje také nabídky Informace o hráči, Diplomacie, Výroba a Deník transakcí, které sdílejí stejnou hodnotu)."></text>
   <!-- English -->
   <text language="44"
     description="Adds an Options menu slider to configure the width of the Map screen's Information Panels (also affects the Player Info, Diplomacy, Crafting and Transaction Log menus, which share the same value)."></text>
   <!-- Polish -->
   <text language="48"
-    description="Dodaje suwak w menu Opcje do regulacji szerokości prawego panelu informacyjnego."></text>
+    description="Dodaje suwak w menu Opcje umożliwiający regulację szerokości paneli informacyjnych ekranu mapy (wpływa również na menu Informacje o graczu, Dyplomacja, Wytwarzanie i Dziennik transakcji, które współdzielą tę samą wartość)."></text>
   <!-- German -->
   <text language="49"
-    description="Fügt einen Schieberegler im Optionsmenü hinzu, um die Breite des rechten Infopanels anzupassen."></text>
+    description="Fügt dem Optionsmenü einen Schieberegler hinzu, um die Breite der Informationspanele der Kartenansicht einzustellen (betrifft auch die Menüs Spielerinfo, Diplomatie, Herstellung und Transaktionsprotokoll, die denselben Wert verwenden)."></text>
   <!-- Portuguese -->
   <text language="55"
-    description="Adiciona um controle deslizante no menu Opções para ajustar a largura do painel de informações à direita."></text>
+    description="Adiciona um controle deslizante no menu Opções para ajustar a largura dos painéis de informações da tela do mapa (também afeta os menus Informações do jogador, Diplomacia, Fabricação e Registro de transações, que compartilham o mesmo valor)."></text>
   <!-- Japanese -->
   <text language="81"
-    description="オプションメニューに、右側の情報パネルの幅を調整するスライダーを追加します。"></text>
+    description="マップ画面の情報パネルの幅を設定するスライダーをオプションメニューに追加します（プレイヤー情報、外交、製造、取引履歴の各メニューにも同じ値が適用されます）。"></text>
   <!-- Korean -->
   <text language="82"
-    description="옵션 메뉴에 오른쪽 정보 패널의 너비를 조정하는 슬라이더를 추가합니다."></text>
+    description="맵 화면의 정보 패널 너비를 설정하는 슬라이더를 옵션 메뉴에 추가합니다(플레이어 정보, 외교, 제작, 거래 기록 메뉴에도 동일한 값이 적용됩니다)."></text>
   <!-- Chinese Simplified -->
   <text language="86"
-    description="在选项菜单中添加一个滑块，用于调整右侧信息面板的宽度。"></text>
+    description="在选项菜单中添加一个滑块，用于设置地图界面信息面板的宽度（同时也会影响共享该数值的玩家信息、外交、制造和交易记录菜单）。"></text>
   <!-- Chinese Traditional -->
   <text language="88"
-    description="在選項選單中新增一個滑桿，用於調整右側資訊面板的寬度。"></text>
+    description="在選項選單中新增一個滑桿，用於設定地圖畫面資訊面板的寬度（同時也會影響共用該數值的玩家資訊、外交、製造和交易記錄選單）。"></text>
   <!-- Turkish -->
   <text language="90"
-    description="Sağdaki Bilgi Panelinin genişliğini ayarlamak için Seçenekler menüsüne bir kaydırıcı ekler."></text>
+    description="Harita ekranının Bilgi Panellerinin genişliğini ayarlamak için Seçenekler menüsüne bir kaydırıcı ekler (aynı değeri paylaşan Oyuncu Bilgisi, Diplomasi, Üretim ve İşlem Günlüğü menülerini de etkiler)."></text>
   <!-- Bulgarian -->
   <text language="359"
-    description="Добавя плъзгач в менюто Опции за регулиране на ширината на дясното информационно табло."></text>
+    description="Добавя плъзгач в менюто Опции за регулиране на ширината на информационните панели на екрана с картата (засяга също менютата Информация за играча, Дипломация, Производство и Дневник на транзакциите, които споделят една и съща стойност)."></text>
   <!-- Ukrainian -->
   <text language="380"
-    description="Додає повзунок у меню Параметри для налаштування ширини правої інформаційної панелі."></text>
+    description="Додає повзунок у меню Параметри для налаштування ширини інформаційних панелей екрана карти (впливає також на меню Інформація про гравця, Дипломатія, Виробництво та Журнал транзакцій, які використовують те саме значення)."></text>
   <dependency version="800"></dependency>
-  <dependency id="kuerteeUIExtensionsAndHUD" optional="false" name="kuertee UI Extensions and HUD" version="804"></dependency>
+  <dependency id="kuerteeUIExtensionsAndHUD" optional="true" name="kuertee UI Extensions and HUD" version="804"></dependency>
 </content>
