@@ -28,7 +28,7 @@ Adds an Options menu slider to configure the width of the Map screen's Informati
 
 ## Installation
 
-- **Steam Workshop**: [Info Panel Width](https://steamcommunity.com/sharedfiles/filedetails/?id=0)
+- **Steam Workshop**: [Info Panel Width](https://steamcommunity.com/sharedfiles/filedetails/?id=3772202684) - only for **Game version 9.00** with latest Steam version of the `UI Extensions and HUD` mod.
 - **Nexus Mods**: [Info Panel Width](https://www.nexusmods.com/x4foundations/mods/2264)
 
 ## Usage
