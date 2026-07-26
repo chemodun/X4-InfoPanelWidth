@@ -4,8 +4,7 @@ Adds an Options menu slider to configure the width of the Map screen's Informati
 
 ## Features
 
-- By default, the game limits this width to at most 30% of your screen.
-- This mod turns that old limit into the slider's new *dynamic minimum* and fixed *maximum* from menu width instead: the panels can now be made wider or narrower than the game ever allowed on their own, directly from Options > Game Settings (right after the "UI Scale" option).
+- By default, the game limits this width to at most 30% of your screen. Usually this is fine, but on very wide screens Information Panels can looks too wide, and on 4K screens with high UI Scale they can look too narrow. This mod turns that old limit into the slider's new *dynamic minimum* and fixed *maximum* from menu width instead: the panels can now be made wider or narrower than the game ever allowed on their own, directly from Options > Game Settings (right after the "UI Scale" option).
 - Because the game reuses this same width setting in a few other places, the slider affects those too, as a side effect:
   - The **Player Info** and **Diplomacy** screens' main panel (on the left side of the screen).
   - The **Transaction Log** screen's main panel (at the left edge of the screen).
