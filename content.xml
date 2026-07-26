@@ -25,7 +25,7 @@
     description="Přidává posuvník do nabídky Možnosti pro úpravu šířky pravého informačního panelu."></text>
   <!-- English -->
   <text language="44"
-    description="Adds an Options menu slider to configure the width of the Map screen's left and right Information Panels (also affects the Player Info, Diplomacy, Crafting and Transaction Log menus, which share the same value)."></text>
+    description="Adds an Options menu slider to configure the width of the Map screen's Information Panels (also affects the Player Info, Diplomacy, Crafting and Transaction Log menus, which share the same value)."></text>
   <!-- Polish -->
   <text language="48"
     description="Dodaje suwak w menu Opcje do regulacji szerokości prawego panelu informacyjnego."></text>
@@ -56,6 +56,6 @@
   <!-- Ukrainian -->
   <text language="380"
     description="Додає повзунок у меню Параметри для налаштування ширини правої інформаційної панелі."></text>
-  <dependency version="900"></dependency>
-  <dependency id="kuerteeUIExtensionsAndHUD" optional="false" name="kuertee UI Extensions and HUD" version="900"></dependency>
+  <dependency version="800"></dependency>
+  <dependency id="kuerteeUIExtensionsAndHUD" optional="false" name="kuertee UI Extensions and HUD" version="804"></dependency>
 </content>

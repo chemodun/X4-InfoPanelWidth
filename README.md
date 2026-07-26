@@ -18,8 +18,10 @@ Adds an Options menu slider to configure the width of the Map screen's Informati
 
 ## Requirements
 
-- `X4: Foundations` 9.00 or newer.
-- `kuertee UI Extensions and HUD`, to hook into the Options menu. Version `9.00` and upper is required.
+- **X4: Foundations**: Version **8.00HF4** or higher and **UI Extensions and HUD**: Version **v8.0.4.10** or higher by [kuertee](https://next.nexusmods.com/profile/kuertee?gameId=2659).
+  - Available on Nexus Mods: [UI Extensions and HUD](https://www.nexusmods.com/x4foundations/mods/552)
+- **X4: Foundations**: Version **9.00** or higher and **UI Extensions and HUD**: Version **v9.0.0.7** or higher by [kuertee](https://next.nexusmods.com/profile/kuertee?gameId=2659).
+  - Available on Nexus Mods: [UI Extensions and HUD](https://www.nexusmods.com/x4foundations/mods/552)
 
 ## Installation
 

@@ -8,7 +8,7 @@
 
             <!-- Section: Options row (100-109) -->
             <t id="100">Info Panel Width</t>
-            <t id="101">Sets the width, as a percentage of screen width, of the Map screen's left and right Information Panels. The same value also sizes the Player Info, Diplomacy, Crafting and Transaction Log menus, and their player status text (name, credits, sector, play time), since they all share it.</t>
+            <t id="101">Sets the width, as a percentage of screen width, of the Map screen's Information Panels. The same value also sizes the Player Info, Diplomacy, Crafting and Transaction Log menus, and their player status text (name, credits, sector, play time), since they all share it.</t>
         </page>
     </add>
 </diff>
