@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon name="info_panel_width" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../ui/core/addon.xsd">
+    <environment type="menus">
+        <file name="ui/info_panel_width.lua" />
+        <dependency name="ego_detailmonitorHelper" />
+        <dependency name="kuertee_ui_extensions" />
+        <savedvariable name="__INFO_PANEL_WIDTH_DATA" storage="userdata" />
+    </environment>
+</addon>
