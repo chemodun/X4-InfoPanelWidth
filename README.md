@@ -25,11 +25,40 @@ Adds an Options menu slider to configure the width of the Map screen's Informati
 
 ## Installation
 
-Not yet published.
+- **Steam Workshop**: [Info Panel Width](https://steamcommunity.com/sharedfiles/filedetails/?id=0)
+- **Nexus Mods**: [Info Panel Width](https://www.nexusmods.com/x4foundations/mods/2264)
 
 ## Usage
 
 Open the in-game Options menu, go to Game Settings, and use the new slider (right below "UI Scale") to set the width of the Map screen's Information Panels (and the other screens that share the same setting). Default: 30% of your screen width, the same as the game's original setting.
+
+  ![Settings > Game Settings](docs/images/settings_game_settings.png)
+
+## Screenshots
+
+- Full HD (1920x1080) - with 30% of screen width (default):
+
+  ![Info Panel Width: 30%](docs/images/info_panel_width_30.png)
+
+- Full HD (1920x1080) - with 17% of screen width (minimum):
+
+  ![Info Panel Width: 17%](docs/images/info_panel_width_17.png)
+
+- Full HD (1920x1080) - with 45% of screen width (maximum):
+
+  ![Info Panel Width: 45%](docs/images/info_panel_width_45.png)
+
+- 4K UHD (3840x2160) - with 30% of screen width (default):
+
+  ![Info Panel Width: 30%, 4K UHD](docs/images/info_panel_width_30_4k.png)
+
+- 4K UHD (3840x2160) - with 30% of screen width (default) and UI Scale set to 150% (in-game Options > Game Settings):
+
+  ![Info Panel Width: 30%, 4K UHD, UI Scale 150%](docs/images/info_panel_width_30_4k_ui150.png)
+
+- 4K UHD (3840x2160) - with 40% of screen width (default) and UI Scale set to 150% (in-game Options > Game Settings):
+
+  ![Info Panel Width: 40%, 4K UHD, UI Scale 150%](docs/images/info_panel_width_40_4k_ui150.png)
 
 ## Credits
 
