@@ -66,7 +66,7 @@ Open the in-game Options menu, go to Game Settings, and use the new slider (righ
 [/list]
   [spoiler][img]https://raw.githubusercontent.com/chemodun/X4-InfoPanelWidth/refs/heads/main/docs/images/info_panel_width_30_4k_ui150.png[/img][/spoiler]
 [list]
-[*] 4K UHD (3840x2160) - with 40% of screen width (default) and UI Scale set to 150% (in-game Options > Game Settings):
+[*] 4K UHD (3840x2160) - with 40% of screen width and UI Scale set to 150% (in-game Options > Game Settings):
 [/list]
   [spoiler][img]https://raw.githubusercontent.com/chemodun/X4-InfoPanelWidth/refs/heads/main/docs/images/info_panel_width_40_4k_ui150.png[/img][/spoiler]
 [list]
@@ -74,7 +74,7 @@ Open the in-game Options menu, go to Game Settings, and use the new slider (righ
 [/list]
   [spoiler][img]https://raw.githubusercontent.com/chemodun/X4-InfoPanelWidth/refs/heads/main/docs/images/info_panel_width_30_uw_3k.png[/img][/spoiler]
 [list]
-[*] 3K UWQHD (3440x1440) - with 23% of screen width (default):
+[*] 3K UWQHD (3440x1440) - with 23% of screen width:
 [/list]
   [spoiler][img]https://raw.githubusercontent.com/chemodun/X4-InfoPanelWidth/refs/heads/main/docs/images/info_panel_width_23_uw_3k.png[/img][/spoiler]
 
