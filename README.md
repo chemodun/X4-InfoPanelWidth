@@ -58,7 +58,7 @@ Open the in-game Options menu, go to Game Settings, and use the new slider (righ
 
   ![Info Panel Width: 30%, 4K UHD, UI Scale 150%](docs/images/info_panel_width_30_4k_ui150.png)
 
-- 4K UHD (3840x2160) - with 40% of screen width (default) and UI Scale set to 150% (in-game Options > Game Settings):
+- 4K UHD (3840x2160) - with 40% of screen width and UI Scale set to 150% (in-game Options > Game Settings):
 
   ![Info Panel Width: 40%, 4K UHD, UI Scale 150%](docs/images/info_panel_width_40_4k_ui150.png)
 
@@ -66,7 +66,7 @@ Open the in-game Options menu, go to Game Settings, and use the new slider (righ
 
   ![Info Panel Width: 30%, 3K UWQHD](docs/images/info_panel_width_30_uw_3k.png)
 
-- 3K UWQHD (3440x1440) - with 23% of screen width (default):
+- 3K UWQHD (3440x1440) - with 23% of screen width:
 
   ![Info Panel Width: 23%, 3K UWQHD](docs/images/info_panel_width_23_uw_3k.png)
 
