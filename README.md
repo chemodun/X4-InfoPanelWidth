@@ -62,6 +62,14 @@ Open the in-game Options menu, go to Game Settings, and use the new slider (righ
 
   ![Info Panel Width: 40%, 4K UHD, UI Scale 150%](docs/images/info_panel_width_40_4k_ui150.png)
 
+- 3K UWQHD (3440x1440) - with 30% of screen width (default):
+
+  ![Info Panel Width: 30%, 3K UWQHD](docs/images/info_panel_width_30_uw_3k.png)
+
+- 3K UWQHD (3440x1440) - with 23% of screen width (default):
+
+  ![Info Panel Width: 23%, 3K UWQHD](docs/images/info_panel_width_23_uw_3k.png)
+
 ## Credits
 
 - Author: Chem O`Dun, on [Nexus Mods](https://next.nexusmods.com/profile/ChemODun/mods?gameId=2659) and [Steam Workshop](https://steamcommunity.com/id/chemodun/myworkshopfiles/?appid=392160)
@@ -71,6 +79,7 @@ Open the in-game Options menu, go to Game Settings, and use the new slider (righ
 
 - [EGOSOFT](https://www.egosoft.com) - for the X series.
 - [kuertee](https://next.nexusmods.com/profile/kuertee?gameId=2659) - for the UI Extensions and HUD framework this mod hooks into.
+- **Kureja** on **x4_modding channel** on [Egosoft Discord](https://discord.com/invite/zhs8sRpd3m) - for the idea and screenshots of the 3K UWQHD (3440x1440)
 
 ## Changelog
 
