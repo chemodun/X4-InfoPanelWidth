@@ -62,6 +62,14 @@ Open the in-game Options menu, go to Game Settings, and use the new slider (righ
 
   ![Info Panel Width: 40%, 4K UHD, UI Scale 150%](docs/images/info_panel_width_40_4k_ui150.png)
 
+- 3K UWQHD (3440x1440) - with 30% of screen width (default):
+
+  ![Info Panel Width: 30%, 3K UWQHD](docs/images/info_panel_width_30_uw_3k.png)
+
+- 3K UWQHD (3440x1440) - with 23% of screen width (default):
+
+  ![Info Panel Width: 23%, 3K UWQHD](docs/images/info_panel_width_23_uw_3k.png)
+
 ## Credits
 
 - Author: Chem O`Dun, on [Nexus Mods](https://next.nexusmods.com/profile/ChemODun/mods?gameId=2659) and [Steam Workshop](https://steamcommunity.com/id/chemodun/myworkshopfiles/?appid=392160)
